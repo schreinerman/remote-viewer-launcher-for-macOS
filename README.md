@@ -1,4 +1,4 @@
-# remote-viewer launcher for macOS
+# SPICE client / remote-viewer launcher for macOS
  
 remote-viewer launcher for macOS, requires remote-viewer installed via brew
 

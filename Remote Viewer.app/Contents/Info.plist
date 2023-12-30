@@ -22,6 +22,8 @@
 			<array>
 				<string>****</string>
 			</array>
+			<key>CFBundleTypeRole</key>
+        		<string>Viewer</string>
 		</dict>
 	</array>
 	<key>CFBundleExecutable</key>
